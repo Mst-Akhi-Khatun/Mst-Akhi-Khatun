@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhi Khatun</h1>
 <h2 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h2>
 
 ## 1. 🙋‍♂️ Here Are Some Infos About Me:
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **tanmoyparvez23@gamil.com**
+- 📫 How to reach me **akhikhatun7732@gmail.com**
 
 - ⚡ Fun fact **I love coding and creating awesome super duper websites.**
 
@@ -47,9 +47,7 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/TanmoyParvez23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/tanmoy-parvez/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/tanmoyparvez/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC7TKoePmJ8Q2vMrm6VFDrtg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/Mst Akhi Khatun/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/Mst. Akhi Khatun/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
