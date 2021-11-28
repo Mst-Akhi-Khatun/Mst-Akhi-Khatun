@@ -47,7 +47,7 @@
 
 <p align="left">
 
-<a href = "https://www.facebook.com/Mst Akhi Khatun/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.linkedin.com/in/Mst. Akhi Khatun/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/akhikhatun7732/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/akhikhatun7732/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
